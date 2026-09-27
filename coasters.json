@@ -1,0 +1,1376 @@
+[
+  {
+    "rank": 1,
+    "name": "Steel Vengeance",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 2,
+    "name": "Fury 325",
+    "park": "Carowinds",
+    "country": "United States"
+  },
+  {
+    "rank": 3,
+    "name": "Taron",
+    "park": "Phantasialand",
+    "country": "Germany"
+  },
+  {
+    "rank": 4,
+    "name": "Iron Gwazi",
+    "park": "Busch Gardens Tampa Bay",
+    "country": "United States"
+  },
+  {
+    "rank": 5,
+    "name": "Untamed",
+    "park": "Walibi Holland",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 6,
+    "name": "Zadra",
+    "park": "Energylandia",
+    "country": "Poland"
+  },
+  {
+    "rank": 7,
+    "name": "Helix",
+    "park": "Liseberg",
+    "country": "Sweden"
+  },
+  {
+    "rank": 8,
+    "name": "Shambhala",
+    "park": "PortAventura Park",
+    "country": "Spain"
+  },
+  {
+    "rank": 9,
+    "name": "Wildfire",
+    "park": "Kolmarden",
+    "country": "Sweden"
+  },
+  {
+    "rank": 10,
+    "name": "Hyperion",
+    "park": "Energylandia",
+    "country": "Poland"
+  },
+  {
+    "rank": 11,
+    "name": "VelociCoaster",
+    "park": "Universal Islands of Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 12,
+    "name": "El Toro",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 13,
+    "name": "Millennium Force",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 14,
+    "name": "Maverick",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 15,
+    "name": "Leviathan",
+    "park": "Canada's Wonderland",
+    "country": "Canada"
+  },
+  {
+    "rank": 16,
+    "name": "Nemesis",
+    "park": "Alton Towers",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 17,
+    "name": "Wicked Cyclone",
+    "park": "Six Flags New England",
+    "country": "United States"
+  },
+  {
+    "rank": 18,
+    "name": "Twisted Colossus",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 19,
+    "name": "Skyrush",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 20,
+    "name": "The Voyage",
+    "park": "Holiday World",
+    "country": "United States"
+  },
+  {
+    "rank": 21,
+    "name": "Ride to Happiness",
+    "park": "Plopsaland De Panne",
+    "country": "Belgium"
+  },
+  {
+    "rank": 22,
+    "name": "F.L.Y.",
+    "park": "Phantasialand",
+    "country": "Germany"
+  },
+  {
+    "rank": 23,
+    "name": "Black Mamba",
+    "park": "Phantasialand",
+    "country": "Germany"
+  },
+  {
+    "rank": 24,
+    "name": "Oblivion",
+    "park": "Alton Towers",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 25,
+    "name": "The Smiler",
+    "park": "Alton Towers",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 26,
+    "name": "Kingda Ka",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 27,
+    "name": "Top Thrill 2",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 28,
+    "name": "Griffon",
+    "park": "Busch Gardens Williamsburg",
+    "country": "United States"
+  },
+  {
+    "rank": 29,
+    "name": "Formula Rossa",
+    "park": "Ferrari World",
+    "country": "United Arab Emirates"
+  },
+  {
+    "rank": 30,
+    "name": "Eejanaika",
+    "park": "Fuji-Q Highland",
+    "country": "Japan"
+  },
+  {
+    "rank": 31,
+    "name": "Steel Dragon 2000",
+    "park": "Nagashima Spa Land",
+    "country": "Japan"
+  },
+  {
+    "rank": 32,
+    "name": "T Express",
+    "park": "Everland",
+    "country": "South Korea"
+  },
+  {
+    "rank": 33,
+    "name": "DC Rivals HyperCoaster",
+    "park": "Warner Bros. Movie World",
+    "country": "Australia"
+  },
+  {
+    "rank": 34,
+    "name": "Nitro",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 35,
+    "name": "Twisted Timbers",
+    "park": "Kings Dominion",
+    "country": "United States"
+  },
+  {
+    "rank": 36,
+    "name": "Intimidator 305",
+    "park": "Kings Dominion",
+    "country": "United States"
+  },
+  {
+    "rank": 37,
+    "name": "Montu",
+    "park": "Busch Gardens Tampa Bay",
+    "country": "United States"
+  },
+  {
+    "rank": 38,
+    "name": "SheiKra",
+    "park": "Busch Gardens Tampa Bay",
+    "country": "United States"
+  },
+  {
+    "rank": 39,
+    "name": "Kumba",
+    "park": "Busch Gardens Tampa Bay",
+    "country": "United States"
+  },
+  {
+    "rank": 40,
+    "name": "Cheetah Hunt",
+    "park": "Busch Gardens Tampa Bay",
+    "country": "United States"
+  },
+  {
+    "rank": 41,
+    "name": "Wildcat's Revenge",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 42,
+    "name": "Phoenix",
+    "park": "Knoebels",
+    "country": "United States"
+  },
+  {
+    "rank": 43,
+    "name": "Boulder Dash",
+    "park": "Lake Compounce",
+    "country": "United States"
+  },
+  {
+    "rank": 44,
+    "name": "Goliath",
+    "park": "Six Flags Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 45,
+    "name": "Raging Bull",
+    "park": "Six Flags Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 46,
+    "name": "X2",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 47,
+    "name": "Tatsu",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 48,
+    "name": "Full Throttle",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 49,
+    "name": "Wonder Woman Flight of Courage",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 50,
+    "name": "Diamondback",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 51,
+    "name": "Mystic Timbers",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 52,
+    "name": "Orion",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 53,
+    "name": "Banshee",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 54,
+    "name": "The Beast",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 55,
+    "name": "Mako",
+    "park": "SeaWorld Orlando",
+    "country": "United States"
+  },
+  {
+    "rank": 56,
+    "name": "Manta",
+    "park": "SeaWorld Orlando",
+    "country": "United States"
+  },
+  {
+    "rank": 57,
+    "name": "Kraken",
+    "park": "SeaWorld Orlando",
+    "country": "United States"
+  },
+  {
+    "rank": 58,
+    "name": "Ice Breaker",
+    "park": "SeaWorld Orlando",
+    "country": "United States"
+  },
+  {
+    "rank": 59,
+    "name": "Pipeline: The Surf Coaster",
+    "park": "SeaWorld Orlando",
+    "country": "United States"
+  },
+  {
+    "rank": 60,
+    "name": "Behemoth",
+    "park": "Canada's Wonderland",
+    "country": "Canada"
+  },
+  {
+    "rank": 61,
+    "name": "Yukon Striker",
+    "park": "Canada's Wonderland",
+    "country": "Canada"
+  },
+  {
+    "rank": 62,
+    "name": "Wonder Mountain's Guardian",
+    "park": "Canada's Wonderland",
+    "country": "Canada"
+  },
+  {
+    "rank": 63,
+    "name": "SkyRider",
+    "park": "Canada's Wonderland",
+    "country": "Canada"
+  },
+  {
+    "rank": 64,
+    "name": "Goliath",
+    "park": "La Ronde",
+    "country": "Canada"
+  },
+  {
+    "rank": 65,
+    "name": "Lightning Rod",
+    "park": "Dollywood",
+    "country": "United States"
+  },
+  {
+    "rank": 66,
+    "name": "Wild Eagle",
+    "park": "Dollywood",
+    "country": "United States"
+  },
+  {
+    "rank": 67,
+    "name": "Mystery Mine",
+    "park": "Dollywood",
+    "country": "United States"
+  },
+  {
+    "rank": 68,
+    "name": "Big Bear Mountain",
+    "park": "Dollywood",
+    "country": "United States"
+  },
+  {
+    "rank": 69,
+    "name": "Thunderhead",
+    "park": "Dollywood",
+    "country": "United States"
+  },
+  {
+    "rank": 70,
+    "name": "Hagrid's Magical Creature Motorbike Adventure",
+    "park": "Universal Islands of Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 71,
+    "name": "Revenge of the Mummy",
+    "park": "Universal Studios Florida",
+    "country": "United States"
+  },
+  {
+    "rank": 72,
+    "name": "Hollywood Rip Ride Rockit",
+    "park": "Universal Studios Florida",
+    "country": "United States"
+  },
+  {
+    "rank": 73,
+    "name": "Incredible Hulk Coaster",
+    "park": "Universal Islands of Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 74,
+    "name": "Space Mountain",
+    "park": "Magic Kingdom",
+    "country": "United States"
+  },
+  {
+    "rank": 75,
+    "name": "Expedition Everest",
+    "park": "Disney's Animal Kingdom",
+    "country": "United States"
+  },
+  {
+    "rank": 76,
+    "name": "Seven Dwarfs Mine Train",
+    "park": "Magic Kingdom",
+    "country": "United States"
+  },
+  {
+    "rank": 77,
+    "name": "TRON Lightcycle Run",
+    "park": "Magic Kingdom",
+    "country": "United States"
+  },
+  {
+    "rank": 78,
+    "name": "Rock 'n' Roller Coaster",
+    "park": "Disney's Hollywood Studios",
+    "country": "United States"
+  },
+  {
+    "rank": 79,
+    "name": "Space Mountain",
+    "park": "Disneyland",
+    "country": "United States"
+  },
+  {
+    "rank": 80,
+    "name": "Matterhorn Bobsleds",
+    "park": "Disneyland",
+    "country": "United States"
+  },
+  {
+    "rank": 81,
+    "name": "Big Thunder Mountain Railroad",
+    "park": "Disneyland",
+    "country": "United States"
+  },
+  {
+    "rank": 82,
+    "name": "Incredicoaster",
+    "park": "Disney California Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 83,
+    "name": "Gemini",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 84,
+    "name": "Magnum XL-200",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 85,
+    "name": "Raptor",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 86,
+    "name": "Valravn",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 87,
+    "name": "Rougarou",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 88,
+    "name": "Gatekeeper",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 89,
+    "name": "Blue Streak",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 90,
+    "name": "Corkscrew",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 91,
+    "name": "Iron Dragon",
+    "park": "Cedar Point",
+    "country": "United States"
+  },
+  {
+    "rank": 92,
+    "name": "Riddler's Revenge",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 93,
+    "name": "Viper",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 94,
+    "name": "Ninja",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 95,
+    "name": "West Coast Racers",
+    "park": "Six Flags Magic Mountain",
+    "country": "United States"
+  },
+  {
+    "rank": 96,
+    "name": "Green Lantern: First Flight",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 97,
+    "name": "Batman: The Ride",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 98,
+    "name": "Superman: Ultimate Flight",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 99,
+    "name": "Jersey Devil Coaster",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 100,
+    "name": "Skull Mountain",
+    "park": "Six Flags Great Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 101,
+    "name": "American Eagle",
+    "park": "Six Flags Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 102,
+    "name": "Maxx Force",
+    "park": "Six Flags Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 103,
+    "name": "Batman: The Ride",
+    "park": "Six Flags Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 104,
+    "name": "Whizzer",
+    "park": "Six Flags Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 105,
+    "name": "Iron Rattler",
+    "park": "Six Flags Fiesta Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 106,
+    "name": "Wonder Woman Golden Lasso Coaster",
+    "park": "Six Flags Fiesta Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 107,
+    "name": "Poltergeist",
+    "park": "Six Flags Fiesta Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 108,
+    "name": "Goliath",
+    "park": "Six Flags Fiesta Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 109,
+    "name": "Superman: Krypton Coaster",
+    "park": "Six Flags Fiesta Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 110,
+    "name": "Titan",
+    "park": "Six Flags Over Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 111,
+    "name": "New Texas Giant",
+    "park": "Six Flags Over Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 112,
+    "name": "Batman: The Ride",
+    "park": "Six Flags Over Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 113,
+    "name": "Mr. Freeze: Reverse Blast",
+    "park": "Six Flags Over Texas",
+    "country": "United States"
+  },
+  {
+    "rank": 114,
+    "name": "The Boss",
+    "park": "Six Flags St. Louis",
+    "country": "United States"
+  },
+  {
+    "rank": 115,
+    "name": "American Thunder",
+    "park": "Six Flags St. Louis",
+    "country": "United States"
+  },
+  {
+    "rank": 116,
+    "name": "Batman: The Ride",
+    "park": "Six Flags St. Louis",
+    "country": "United States"
+  },
+  {
+    "rank": 117,
+    "name": "Wild One",
+    "park": "Six Flags America",
+    "country": "United States"
+  },
+  {
+    "rank": 118,
+    "name": "Superman: Ride of Steel",
+    "park": "Six Flags America",
+    "country": "United States"
+  },
+  {
+    "rank": 119,
+    "name": "Firebird",
+    "park": "Six Flags America",
+    "country": "United States"
+  },
+  {
+    "rank": 120,
+    "name": "Superman: The Ride",
+    "park": "Six Flags New England",
+    "country": "United States"
+  },
+  {
+    "rank": 121,
+    "name": "Goliath",
+    "park": "Six Flags New England",
+    "country": "United States"
+  },
+  {
+    "rank": 122,
+    "name": "Medusa",
+    "park": "Six Flags Discovery Kingdom",
+    "country": "United States"
+  },
+  {
+    "rank": 123,
+    "name": "Joker",
+    "park": "Six Flags Discovery Kingdom",
+    "country": "United States"
+  },
+  {
+    "rank": 124,
+    "name": "Apollo's Chariot",
+    "park": "Busch Gardens Williamsburg",
+    "country": "United States"
+  },
+  {
+    "rank": 125,
+    "name": "Alpengeist",
+    "park": "Busch Gardens Williamsburg",
+    "country": "United States"
+  },
+  {
+    "rank": 126,
+    "name": "Verbolten",
+    "park": "Busch Gardens Williamsburg",
+    "country": "United States"
+  },
+  {
+    "rank": 127,
+    "name": "InvadR",
+    "park": "Busch Gardens Williamsburg",
+    "country": "United States"
+  },
+  {
+    "rank": 128,
+    "name": "Racer",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 129,
+    "name": "Adventure Express",
+    "park": "Kings Island",
+    "country": "United States"
+  },
+  {
+    "rank": 130,
+    "name": "Dominator",
+    "park": "Kings Dominion",
+    "country": "United States"
+  },
+  {
+    "rank": 131,
+    "name": "Grizzly",
+    "park": "Kings Dominion",
+    "country": "United States"
+  },
+  {
+    "rank": 132,
+    "name": "Intimidator",
+    "park": "Carowinds",
+    "country": "United States"
+  },
+  {
+    "rank": 133,
+    "name": "Copperhead Strike",
+    "park": "Carowinds",
+    "country": "United States"
+  },
+  {
+    "rank": 134,
+    "name": "Afterburn",
+    "park": "Carowinds",
+    "country": "United States"
+  },
+  {
+    "rank": 135,
+    "name": "Candymonium",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 136,
+    "name": "Fahrenheit",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 137,
+    "name": "Lightning Racer",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 138,
+    "name": "Great Bear",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 139,
+    "name": "Sidewinder",
+    "park": "Hersheypark",
+    "country": "United States"
+  },
+  {
+    "rank": 140,
+    "name": "Twister",
+    "park": "Knoebels",
+    "country": "United States"
+  },
+  {
+    "rank": 141,
+    "name": "The Legend",
+    "park": "Holiday World",
+    "country": "United States"
+  },
+  {
+    "rank": 142,
+    "name": "Thunderbird",
+    "park": "Holiday World",
+    "country": "United States"
+  },
+  {
+    "rank": 143,
+    "name": "Raven",
+    "park": "Holiday World",
+    "country": "United States"
+  },
+  {
+    "rank": 144,
+    "name": "Phantom's Revenge",
+    "park": "Kennywood",
+    "country": "United States"
+  },
+  {
+    "rank": 145,
+    "name": "Thunderbolt",
+    "park": "Kennywood",
+    "country": "United States"
+  },
+  {
+    "rank": 146,
+    "name": "Jack Rabbit",
+    "park": "Kennywood",
+    "country": "United States"
+  },
+  {
+    "rank": 147,
+    "name": "Steel Curtain",
+    "park": "Kennywood",
+    "country": "United States"
+  },
+  {
+    "rank": 148,
+    "name": "Ravine Flyer II",
+    "park": "Waldameer",
+    "country": "United States"
+  },
+  {
+    "rank": 149,
+    "name": "Time Traveler",
+    "park": "Silver Dollar City",
+    "country": "United States"
+  },
+  {
+    "rank": 150,
+    "name": "Outlaw Run",
+    "park": "Silver Dollar City",
+    "country": "United States"
+  },
+  {
+    "rank": 151,
+    "name": "Powder Keg",
+    "park": "Silver Dollar City",
+    "country": "United States"
+  },
+  {
+    "rank": 152,
+    "name": "Shivering Timbers",
+    "park": "Michigan's Adventure",
+    "country": "United States"
+  },
+  {
+    "rank": 153,
+    "name": "Mamba",
+    "park": "Worlds of Fun",
+    "country": "United States"
+  },
+  {
+    "rank": 154,
+    "name": "Patriot",
+    "park": "Worlds of Fun",
+    "country": "United States"
+  },
+  {
+    "rank": 155,
+    "name": "Prowler",
+    "park": "Worlds of Fun",
+    "country": "United States"
+  },
+  {
+    "rank": 156,
+    "name": "Renegade",
+    "park": "Valleyfair",
+    "country": "United States"
+  },
+  {
+    "rank": 157,
+    "name": "Wild Thing",
+    "park": "Valleyfair",
+    "country": "United States"
+  },
+  {
+    "rank": 158,
+    "name": "Gold Striker",
+    "park": "California's Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 159,
+    "name": "RailBlazer",
+    "park": "California's Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 160,
+    "name": "Patriot",
+    "park": "California's Great America",
+    "country": "United States"
+  },
+  {
+    "rank": 161,
+    "name": "Electric Eel",
+    "park": "SeaWorld San Diego",
+    "country": "United States"
+  },
+  {
+    "rank": 162,
+    "name": "Emperor",
+    "park": "SeaWorld San Diego",
+    "country": "United States"
+  },
+  {
+    "rank": 163,
+    "name": "Wicker Man",
+    "park": "Alton Towers",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 164,
+    "name": "Galactica",
+    "park": "Alton Towers",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 165,
+    "name": "Rita",
+    "park": "Alton Towers",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 166,
+    "name": "Stealth",
+    "park": "Thorpe Park",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 167,
+    "name": "Colossus",
+    "park": "Thorpe Park",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 168,
+    "name": "Saw: The Ride",
+    "park": "Thorpe Park",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 169,
+    "name": "Nemesis Inferno",
+    "park": "Thorpe Park",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 170,
+    "name": "ICON",
+    "park": "Blackpool Pleasure Beach",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 171,
+    "name": "Big One",
+    "park": "Blackpool Pleasure Beach",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 172,
+    "name": "Revolution",
+    "park": "Blackpool Pleasure Beach",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 173,
+    "name": "Infusion",
+    "park": "Blackpool Pleasure Beach",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 174,
+    "name": "Vampire",
+    "park": "Chessington World of Adventures",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 175,
+    "name": "Dragon's Fury",
+    "park": "Chessington World of Adventures",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 176,
+    "name": "Mumbo Jumbo",
+    "park": "Flamingo Land",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 177,
+    "name": "Velocity",
+    "park": "Flamingo Land",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 178,
+    "name": "Shockwave",
+    "park": "Drayton Manor",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": 179,
+    "name": "Silver Star",
+    "park": "Europa-Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 180,
+    "name": "Blue Fire",
+    "park": "Europa-Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 181,
+    "name": "Wodan Timburcoaster",
+    "park": "Europa-Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 182,
+    "name": "Euro-Mir",
+    "park": "Europa-Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 183,
+    "name": "Colorado Adventure",
+    "park": "Phantasialand",
+    "country": "Germany"
+  },
+  {
+    "rank": 184,
+    "name": "Krake",
+    "park": "Heide Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 185,
+    "name": "Colossos",
+    "park": "Heide Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 186,
+    "name": "Limit",
+    "park": "Heide Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 187,
+    "name": "Van Helsing's Factory",
+    "park": "Movie Park Germany",
+    "country": "Germany"
+  },
+  {
+    "rank": 188,
+    "name": "Expedition GeForce",
+    "park": "Holiday Park",
+    "country": "Germany"
+  },
+  {
+    "rank": 189,
+    "name": "Baron 1898",
+    "park": "Efteling",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 190,
+    "name": "Joris en de Draak",
+    "park": "Efteling",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 191,
+    "name": "Python",
+    "park": "Efteling",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 192,
+    "name": "Max & Moritz",
+    "park": "Efteling",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 193,
+    "name": "Goliath",
+    "park": "Walibi Holland",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 194,
+    "name": "Lost Gravity",
+    "park": "Walibi Holland",
+    "country": "Netherlands"
+  },
+  {
+    "rank": 195,
+    "name": "Heidi The Ride",
+    "park": "Plopsaland De Panne",
+    "country": "Belgium"
+  },
+  {
+    "rank": 196,
+    "name": "Kondaa",
+    "park": "Walibi Belgium",
+    "country": "Belgium"
+  },
+  {
+    "rank": 197,
+    "name": "Psyke Underground",
+    "park": "Walibi Belgium",
+    "country": "Belgium"
+  },
+  {
+    "rank": 198,
+    "name": "Typhoon",
+    "park": "Bobbejaanland",
+    "country": "Belgium"
+  },
+  {
+    "rank": 199,
+    "name": "Fury",
+    "park": "Bobbejaanland",
+    "country": "Belgium"
+  },
+  {
+    "rank": 200,
+    "name": "Toutatis",
+    "park": "Parc Asterix",
+    "country": "France"
+  },
+  {
+    "rank": 201,
+    "name": "Oz'iris",
+    "park": "Parc Asterix",
+    "country": "France"
+  },
+  {
+    "rank": 202,
+    "name": "Goudurix",
+    "park": "Parc Asterix",
+    "country": "France"
+  },
+  {
+    "rank": 203,
+    "name": "Big Thunder Mountain",
+    "park": "Disneyland Paris",
+    "country": "France"
+  },
+  {
+    "rank": 204,
+    "name": "Space Mountain: Mission 2",
+    "park": "Disneyland Paris",
+    "country": "France"
+  },
+  {
+    "rank": 205,
+    "name": "Crush's Coaster",
+    "park": "Disneyland Paris",
+    "country": "France"
+  },
+  {
+    "rank": 206,
+    "name": "Alpina Blitz",
+    "park": "Nigloland",
+    "country": "France"
+  },
+  {
+    "rank": 207,
+    "name": "Timber",
+    "park": "Walibi Rhone-Alpes",
+    "country": "France"
+  },
+  {
+    "rank": 208,
+    "name": "Furius Baco",
+    "park": "PortAventura Park",
+    "country": "Spain"
+  },
+  {
+    "rank": 209,
+    "name": "Dragon Khan",
+    "park": "PortAventura Park",
+    "country": "Spain"
+  },
+  {
+    "rank": 210,
+    "name": "Valkyria",
+    "park": "Liseberg",
+    "country": "Sweden"
+  },
+  {
+    "rank": 211,
+    "name": "Balder",
+    "park": "Liseberg",
+    "country": "Sweden"
+  },
+  {
+    "rank": 212,
+    "name": "Rutschebanen",
+    "park": "Tivoli Gardens",
+    "country": "Denmark"
+  },
+  {
+    "rank": 213,
+    "name": "Daemonen",
+    "park": "Tivoli Gardens",
+    "country": "Denmark"
+  },
+  {
+    "rank": 214,
+    "name": "Piraten",
+    "park": "Djurs Sommerland",
+    "country": "Denmark"
+  },
+  {
+    "rank": 215,
+    "name": "iSpeed",
+    "park": "Mirabilandia",
+    "country": "Italy"
+  },
+  {
+    "rank": 216,
+    "name": "Katun",
+    "park": "Mirabilandia",
+    "country": "Italy"
+  },
+  {
+    "rank": 217,
+    "name": "Raptor",
+    "park": "Gardaland",
+    "country": "Italy"
+  },
+  {
+    "rank": 218,
+    "name": "Oblivion: The Black Hole",
+    "park": "Gardaland",
+    "country": "Italy"
+  },
+  {
+    "rank": 219,
+    "name": "Takabisha",
+    "park": "Fuji-Q Highland",
+    "country": "Japan"
+  },
+  {
+    "rank": 220,
+    "name": "Do-Dodonpa",
+    "park": "Fuji-Q Highland",
+    "country": "Japan"
+  },
+  {
+    "rank": 221,
+    "name": "Fujiyama",
+    "park": "Fuji-Q Highland",
+    "country": "Japan"
+  },
+  {
+    "rank": 222,
+    "name": "Hakugei",
+    "park": "Nagashima Spa Land",
+    "country": "Japan"
+  },
+  {
+    "rank": 223,
+    "name": "Acrobat",
+    "park": "Nagashima Spa Land",
+    "country": "Japan"
+  },
+  {
+    "rank": 224,
+    "name": "Bandit",
+    "park": "Yomiuriland",
+    "country": "Japan"
+  },
+  {
+    "rank": 225,
+    "name": "Twister 10 Inversion Roller Coaster",
+    "park": "Chimelong Paradise",
+    "country": "China"
+  },
+  {
+    "rank": 226,
+    "name": "Bullet Coaster",
+    "park": "Chimelong Paradise",
+    "country": "China"
+  },
+  {
+    "rank": 227,
+    "name": "Superman Escape",
+    "park": "Warner Bros. Movie World",
+    "country": "Australia"
+  },
+  {
+    "rank": 228,
+    "name": "Medusa Steel Coaster",
+    "park": "Six Flags Mexico",
+    "country": "Mexico"
+  },
+  {
+    "rank": 229,
+    "name": "Batman: The Ride",
+    "park": "Six Flags Mexico",
+    "country": "Mexico"
+  }
+]

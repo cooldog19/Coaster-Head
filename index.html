@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#0f1220">
+<title>Coaster Heads!</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ============ Rotate hint (portrait phones) ============ -->
+<div class="rotate-hint" aria-hidden="true">
+  <div class="phone"></div>
+  <p class="rlabel">Rotate your phone to play →</p>
+</div>
+
+<!-- ============ SETUP SCREEN ============ -->
+<section id="screen-setup" class="screen active">
+  <header class="brand">
+    <h1>Coaster Heads!<span class="brand-sub">the roller-coaster heads-up game</span></h1>
+  </header>
+
+  <div class="setup-scroll">
+    <section class="card">
+      <button type="button" class="card-head" id="country-toggle" aria-expanded="false">
+        <span class="card-head-title">Exclude countries</span>
+        <span class="card-head-badge" id="country-count">none</span>
+        <span class="chev" aria-hidden="true">▾</span>
+      </button>
+      <div id="country-body" class="card-body" hidden>
+        <p class="hint">Check the countries you want to keep <em>out</em> of this round.</p>
+        <div id="country-list" class="country-grid"></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Difficulty</h2>
+      <p class="hint">How far down the ranked list may words be drawn from.</p>
+      <div id="difficulty" class="segmented" role="radiogroup" aria-label="Difficulty">
+        <button type="button" class="seg-btn" data-diff="easy"   role="radio" aria-checked="false">Easy <small>1–40</small></button>
+        <button type="button" class="seg-btn" data-diff="medium" role="radio" aria-checked="false">Medium <small>1–100</small></button>
+        <button type="button" class="seg-btn" data-diff="hard"   role="radio" aria-checked="false">Hard <small>1–160</small></button>
+        <button type="button" class="seg-btn" data-diff="expert" role="radio" aria-checked="false">Expert <small>1–229</small></button>
+      </div>
+      <div id="pool-info" class="pool-info"></div>
+    </section>
+
+    <section class="card">
+      <h2>Scoring</h2>
+      <p class="hint">Points for guessing — more the faster you are. Wrong answers lose points.</p>
+      <label class="toggle-row">
+        <span class="toggle-label">Deduct points for skips (50 each)</span>
+        <span class="switch">
+          <input type="checkbox" id="score-penalty" checked>
+          <span class="switch-track"></span>
+        </span>
+      </label>
+    </section>
+
+    <section class="card">
+      <h2>Round timer</h2>
+      <label class="toggle-row">
+        <span class="toggle-label">No timer (manual end)</span>
+        <span class="switch">
+          <input type="checkbox" id="no-timer">
+          <span class="switch-track"></span>
+        </span>
+      </label>
+      <div id="timer-row" class="timer-row">
+        <label for="timer-seconds" class="timer-label">Seconds per round</label>
+        <div class="stepper">
+          <button type="button" id="timer-minus" class="step-btn" aria-label="Decrease seconds">−</button>
+          <input type="number" id="timer-seconds" min="5" max="600" step="5" inputmode="numeric">
+          <button type="button" id="timer-plus" class="step-btn" aria-label="Increase seconds">+</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <footer class="setup-footer">
+    <p id="start-warning" class="warning" hidden></p>
+    <button id="start-btn" class="btn-primary big">Start Round</button>
+  </footer>
+</section>
+
+<!-- ============ PLAY SCREEN ============ -->
+<section id="screen-play" class="screen">
+  <div class="halves">
+    <button id="zone-got" class="zone zone-got" type="button" aria-label="Got it">Got It!</button>
+    <button id="zone-skip" class="zone zone-skip" type="button" aria-label="Skip">Skip</button>
+  </div>
+  <div class="word-wrap">
+    <div id="word" class="word"></div>
+  </div>
+  <div class="play-topbar">
+    <div id="tally" class="tally" aria-live="polite"><span id="tally-got" class="tally-got">0</span> ✓ &nbsp;<span id="tally-skip" class="tally-skip">0</span> ✗</div>
+    <div id="score-chip" class="score-chip" aria-live="polite">0</div>
+    <div id="timer-chip" class="timer-chip" hidden></div>
+    <button id="end-round" class="end-btn" type="button">End</button>
+  </div>
+  <div id="countdown" class="countdown" hidden></div>
+</section>
+
+<!-- ============ SUMMARY SCREEN ============ -->
+<section id="screen-summary" class="screen">
+  <header class="summary-head">
+    <h2>Round complete!</h2>
+    <div class="score-wrap">
+      <span id="final-score" class="final-score">0</span>
+      <span class="score-of">points · <span id="final-total">0</span></span>
+    </div>
+    <p class="hint">Tap any entry to flip got / skip.</p>
+  </header>
+  <ol id="summary-list" class="summary-list"></ol>
+  <footer class="summary-footer">
+    <button id="play-again" class="btn-primary big">Play Again</button>
+  </footer>
+</section>
+
+<script src="game.js"></script>
+</body>
+</html>
