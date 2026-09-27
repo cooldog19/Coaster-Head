@@ -360,19 +360,18 @@ button {
   0% { transform: scale(1.12); opacity: 0.4; }
   100% { transform: scale(1); opacity: 1; }
 }
-#screen-play.flash-got .word-wrap {
-  background: rgba(29, 181, 107, 0.35);
-  animation: flash 0.25s ease;
+/* Full-screen flash — covers the label band at the bottom too */
+#screen-play::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 6;
+  pointer-events: none;
+  opacity: 0;
+  transition: background 0.08s, opacity 0.08s;
 }
-#screen-play.flash-skip .word-wrap {
-  background: rgba(224, 82, 82, 0.35);
-  animation: flash 0.25s ease;
-}
-@keyframes flash {
-  0% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 1; }
-}
+#screen-play.flash-got::before  { background: rgba(29, 181, 107, 0.38); opacity: 1; }
+#screen-play.flash-skip::before { background: rgba(224, 82, 82, 0.38); opacity: 1; }
 
 /* Pre-round countdown overlay */
 .countdown {
@@ -470,20 +469,19 @@ button {
     align-items: flex-end;
     justify-content: center;
     padding: 14px 18px calc(14px + env(safe-area-inset-bottom));
-    font-size: clamp(1.4rem, 11vh, 2.4rem);
+    font-size: clamp(0.85rem, 6vh, 1.2rem);
     letter-spacing: 1px;
     color: #ffffff;
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
   }
   .word-wrap {
-    /* Confine the word to everything except the bottom 120px band that the
-       labels (plus safe-area) occupy. The word is centered within this box. */
+    /* Confine the word to everything except the bottom band that labels occupy */
     top: 0; left: 0; right: 0; bottom: auto;
-    height: calc(100% - 120px);
+    height: calc(100% - 90px);
     padding: 0 16px;
   }
   .word {
-    font-size: clamp(1rem, 13vh, 2.6rem) !important;
+    font-size: clamp(1.5rem, 18vh, 4rem) !important;
     max-width: 76vw;
     line-height: 1.1;
   }
