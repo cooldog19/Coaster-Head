@@ -9,12 +9,6 @@
 </head>
 <body>
 
-<!-- ============ Rotate hint (portrait phones) ============ -->
-<div class="rotate-hint" aria-hidden="true">
-  <div class="phone"></div>
-  <p class="rlabel">Rotate your phone to play →</p>
-</div>
-
 <!-- ============ SETUP SCREEN ============ -->
 <section id="screen-setup" class="screen active">
   <header class="brand">
@@ -100,6 +94,11 @@
     <button id="end-round" class="end-btn" type="button">End</button>
   </div>
   <div id="countdown" class="countdown" hidden></div>
+  <!-- Rotate hint: only visible when play screen is active in portrait -->
+  <div class="rotate-hint" aria-hidden="true">
+    <div class="phone"></div>
+    <p class="rlabel">Rotate your phone to play →</p>
+  </div>
 </section>
 
 <!-- ============ SUMMARY SCREEN ============ -->

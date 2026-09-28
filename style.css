@@ -528,9 +528,10 @@ button {
 }
 .rotate-hint .rlabel { font-size: 1.1rem; font-weight: 600; color: var(--muted); }
 
-/* Show the rotate hint whenever we're in portrait on a phone/narrow screen */
+/* Show the rotate hint only on the PLAY screen (setup stays usable in portrait) */
+#screen-play .rotate-hint { display: none; }
 @media (orientation: portrait) and (max-width: 640px) {
-  .rotate-hint { display: flex; }
+  #screen-play.active .rotate-hint { display: flex; }
 }
 
 /* ============ Summary ============ */
